@@ -1,0 +1,33 @@
+{
+  "update_message": "",
+  "offsets": [
+    {
+      "name": "hooklog",
+      "offset": "0x3CEE408"
+    },
+    {
+      "name": "GetMasterRoleInfo_Hooked_Simplified",
+      "offset": "0x4AFABA8"
+    },
+    {
+      "name": "GetCurrentRankDetail_Hooked_Simplified",
+      "offset": "0x4628810"
+    },
+    {
+      "name": "OnEnter",
+      "offset": "0x5B3B2D0"
+    },
+    {
+      "name": "MyHook_Block_UpdateFrameLater",
+      "offset": "0x41F9C74"
+    },
+    {
+      "name": "MyHook_Block_TssUpdate",
+      "offset": "0x4C55378"
+    },
+    {
+      "name": "OnGameStart",
+      "offset": "0x5505018"
+    }
+  ]
+}
