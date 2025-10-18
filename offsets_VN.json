@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "offsets": {
+    "hooklog_offset": "",
+    "GetMasterRoleInfo_offset": "",
+    "GetCurrentRankDetail_offset": "",
+    "OnEnter_offset": "",
+    "UpdateFrameLater_offset": "",
+    "TssdkSys_Update_offset": "",
+    "OnGameStart_offset": ""
+  }
+}
