@@ -3,6 +3,11 @@
   "offsets": {
     "GetMasterRoleInfo_offset": "0x4AFC974",
     "GetCurrentRankDetail_offset": "0x462A2A8",
-    "UpdateFrameLater_offset": "0x41FB6F0"
+    "UpdateFrameLater_offset": "0x41FB6F0",
+    "LActorRoot_ActorControl_FieldOffset": "0x168",
+    "LActorRoot_ValueComponent_FieldOffset": "0x170",
+    "AnogsPatch1_Offset": "0x4FFCC",
+    "AnogsPatch2_Offset": "0x6CF44",
+    "AnogsPatch3_Offset": "0x23CAF0"
   }
 }
