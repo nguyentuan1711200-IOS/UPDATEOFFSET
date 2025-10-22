@@ -3,7 +3,6 @@
   "offsets": {
     "GetMasterRoleInfo_offset": "0x4AFC974",
     "GetCurrentRankDetail_offset": "0x462A2A8",
-    "UpdateFrameLater_offset": "0x41FB6F0",
-    "camoffsets_offset": "0x54FADD8"
+    "UpdateFrameLater_offset": "0x41FB6F0"
   }
 }
